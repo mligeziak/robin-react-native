@@ -19,6 +19,9 @@
     },
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "pl.mligeza.robin"
+    }
   }
 }
