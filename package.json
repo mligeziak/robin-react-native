@@ -1,4 +1,11 @@
 {
+  "name": "robin",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "exp start --android --localhost",
+    "build": "exp build:android",
+    "lint": "eslint ./"
+  },
   "main": "node_modules/expo/AppEntry.js",
   "private": true,
   "dependencies": {
